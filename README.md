@@ -12,6 +12,11 @@ Written for Ruby 2.0, no extra requirements needed.
     ruby server.rb sample/prime_nubers.rb 4
 
 
+Flow;
+
+![alt tag](https://raw.github.com/sinanislekdemir/distributed_jobs/master/flow.jpg)
+
+
 Watch live action at: https://youtu.be/xnpcyvZGyhA
 
 ![alt tag](https://raw.github.com/sinanislekdemir/distributed_jobs/master/sc2.png)
